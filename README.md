@@ -3,6 +3,9 @@
 
 Telegram RoBot to Upload Links.
 
+## Can Heroku?
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hirusha-H/no-bug-is-damn)
+
 **Features**:
 
 👉 Upload [YTDL Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html) to Telegram.
